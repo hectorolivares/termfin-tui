@@ -33,8 +33,8 @@
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/hectorolivares/financial-sys-tui
-cd financial-sys-tui
+git clone https://github.com/hectorolivares/termfin-tui
+cd termfin-tui
 ```
 
 ### 2. Instalar dependencias
@@ -68,7 +68,7 @@ python main.py
 ---
 
 <p align="center">
-    <samp align="center">HCTR</samp>
+    <samp align="center">HCTR / MONN GC</samp>
 </p>
 
 
